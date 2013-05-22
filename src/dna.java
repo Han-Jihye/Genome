@@ -17,10 +17,9 @@ public class dna {
 					
 				}
 				
-				System.out.println((i+1)+"¹øÂ°´Â " +percent+"%°¡ ÀÏÄ¡ÇÕ´Ï´Ù.");
+				System.out.println((i+1)+"ë²ˆì§¸ëŠ” " +percent+"%ê°€ ì¼ì¹˜í•©ë‹ˆë‹¤.");
 				percent = 0;
 			}
 		}
 	}
-
 
